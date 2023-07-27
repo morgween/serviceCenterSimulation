@@ -1,8 +1,8 @@
-#Student Services Center Simulation
+# Student Services Center Simulation
 This project simulates the operation of a Student Services Center (SSC) that houses the registrar, cashier, and financial aid offices. The simulation aims to calculate metrics on student wait times and window idle times given a specific traffic flow of students through the SSC.
 
 
-#Simulation Input:
+# Simulation Input:
     The input to the simulation is provided through a text file. The file format is as follows:
 
     <Number of Registrar Windows>
@@ -21,7 +21,7 @@ This project simulates the operation of a Student Services Center (SSC) that hou
     END
 
 
-#Simulation Output:
+# Simulation Output:
     At the end of the simulation, the program will display the following metrics for each office:
 
     Mean student wait time
@@ -32,8 +32,8 @@ This project simulates the operation of a Student Services Center (SSC) that hou
 
     Number of students waiting over 10 minutes
     Number of windows idle for over 5 minutes
-    The output will be displayed on the standard output.
-#Usage:
+   The output will be displayed on the standard output.
+# Usage:
     To run the simulation, follow these steps:
 
     • Compile the code using a C++ compiler.
